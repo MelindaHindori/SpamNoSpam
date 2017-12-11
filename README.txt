@@ -1,0 +1,1 @@
+The Python notebook contains the complete code and some extra approaches that were taken but then discarded (commented out: eg. Gridsearch or test_train_split). The code follows the sequential order of the pipeline and thus shall be run as such (Data processing, Feature extraction, Model and hyper-parameter selection, Training and Model evaluation) 
